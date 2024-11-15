@@ -27,13 +27,13 @@ If you want to contribute to this list (please do), send a pull request.
 - [HTML Streaming Over the Wire 🥳: A Deep Dive](https://aralroca.com/blog/html-streaming-over-the-wire)
 - [HTML Streaming and DOM Diffing Algorithm](https://aralroca.com/blog/html-node-streaming)
 
-## Talks
+### Talks
 
 - [Brisa Framework Presentation - October 2024](https://www.youtube.com/watch?v=rtHxGKkqOzM)
 - [Informal talk](https://www.youtube.com/watch?v=kj_g5vIm1lA)
 - [Capitole Tech Talk - Learning Through Open Source](https://www.youtube.com/watch?v=NZRvpWB8Ix8) 🇪🇸
 
-## Podcast
+### Podcast
 
 - [DevTalles Podcast - 182: Brisa Framework | Early Preview](https://www.youtube.com/watch?v=XYI2JEmL9A0) 🇪🇸
 - [Brisa Build: Creando un Framework de JavaScript desde Cero - Charla con su Fundador](https://www.youtube.com/watch?v=WOTKdwxM93Q)  🇪🇸
