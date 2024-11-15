@@ -29,11 +29,17 @@ If you want to contribute to this list (please do), send a pull request.
 
 ### Talks
 
-- [Brisa Framework Presentation - October 2024](https://www.youtube.com/watch?v=rtHxGKkqOzM)
-- [Informal talk](https://www.youtube.com/watch?v=kj_g5vIm1lA)
-- [Capitole Tech Talk - Learning Through Open Source](https://www.youtube.com/watch?v=NZRvpWB8Ix8) 🇪🇸
+- [Brisa Framework Presentation - October 2024](https://www.youtube.com/watch?v=rtHxGKkqOzM) - by Aral Roca
+- [Informal talk](https://www.youtube.com/watch?v=kj_g5vIm1lA) - by Aral Roca
+- [Capitole Tech Talk - Learning Through Open Source](https://www.youtube.com/watch?v=NZRvpWB8Ix8) 🇪🇸 - by Aral Roca
 
 ### Podcast
 
-- [DevTalles Podcast - 182: Brisa Framework | Early Preview](https://www.youtube.com/watch?v=XYI2JEmL9A0) 🇪🇸
-- [Brisa Build: Creando un Framework de JavaScript desde Cero - Charla con su Fundador](https://www.youtube.com/watch?v=WOTKdwxM93Q)  🇪🇸
+- [DevTalles Podcast - 182: Brisa Framework | Early Preview](https://www.youtube.com/watch?v=XYI2JEmL9A0) 🇪🇸 - by Fernando Herrera
+- [Brisa Build: Creando un Framework de JavaScript desde Cero - Charla con su Fundador](https://www.youtube.com/watch?v=WOTKdwxM93Q)  🇪🇸 - by Domini Code
+
+### Streams
+
+- [Exploring Reactivity: Fine-Grained Derivation & Incremental Computation](https://www.youtube.com/live/kz-p_017Usc?t=1400s) - by Ryan Carniato
+- [We Should Probably Talk about Web Components](https://www.youtube.com/live/0F9t_WeJ5p4?si=nCnhUGKNOnvlWXgD&t=18245) - by Ryan Carniato
+- [Hablando de nuevos frameworks](https://youtu.be/esWBgBksL-M?si=fSzHgChr6zz1kwkj&t=227) 🇪🇸 - by Midudev
