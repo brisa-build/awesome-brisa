@@ -16,6 +16,19 @@ If you want to contribute to this list (please do), send a pull request.
 - [Brisa website repo](https://github.com/brisa-build/brisa/tree/canary/packages/www)
 - [Diffing DOM Streaming](https://github.com/brisa-build/diff-dom-streaming)
 
+### Examples
+
+- [API Routes](https://github.com/brisa-build/brisa/tree/canary/examples/with-api-routes)
+- [Internationalization (i18n)](https://github.com/brisa-build/brisa/tree/canary/examples/with-i18n)
+- [Middleware](https://github.com/brisa-build/brisa/tree/canary/examples/with-middleware)
+- [Streaming List](https://github.com/brisa-build/brisa/tree/canary/examples/with-streaming-list)
+- [Suspense](https://github.com/brisa-build/brisa/tree/canary/examples/with-suspense)
+- [View Transitions](https://github.com/brisa-build/brisa/tree/canary/examples/with-view-transitions)
+- [API Routes with Elysia](https://github.com/brisa-build/brisa/tree/main/examples/with-elysia)
+- [External Web Component](https://github.com/brisa-build/brisa/tree/main/examples/with-external-web-component)
+- [Panda CSS](https://github.com/brisa-build/brisa/tree/canary/examples/with-pandacss)
+- [SQLite with Server Action](https://github.com/brisa-build/brisa/tree/main/examples/with-sqlite-with-server-action)
+- [Tailwind CSS](https://github.com/brisa-build/brisa/tree/main/examples/with-tailwindcss)
 
 ### Articles
 
