@@ -1,6 +1,6 @@
 # awesome-brisa [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/teafuljs/teaful/)
 
-A collection of awesome things regarding the Brisa ecosystem.
+A collection of awesome things regarding the Brisa ecosystem. Brisa is in one of the [conclusions](https://2024.stateofjs.com/en-US/conclusion/) of the **State of JS 2024**.
 
 If you want to contribute to this list (please do), send a pull request.
 
@@ -45,6 +45,7 @@ If you want to contribute to this list (please do), send a pull request.
 - [Brisa Framework Presentation - October 2024](https://www.youtube.com/watch?v=rtHxGKkqOzM) - by Aral Roca
 - [Informal talk](https://www.youtube.com/watch?v=kj_g5vIm1lA) - by Aral Roca
 - [Capitole Tech Talk - Learning Through Open Source](https://www.youtube.com/watch?v=NZRvpWB8Ix8) 🇪🇸 - by Aral Roca
+- [Server-Side Dialog Management: No Browser JavaScript Required](https://www.youtube.com/watch?v=7kwT1oshUJA) - by Aral Roca
 
 ### Podcast
 
