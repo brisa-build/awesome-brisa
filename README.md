@@ -39,6 +39,7 @@ If you want to contribute to this list (please do), send a pull request.
 - [SPA-Like Navigation Preserving Web Component State](https://aralroca.com/blog/spa-navigation)
 - [HTML Streaming Over the Wire 🥳: A Deep Dive](https://aralroca.com/blog/html-streaming-over-the-wire)
 - [HTML Streaming and DOM Diffing Algorithm](https://aralroca.com/blog/html-node-streaming)
+- [Don't fall into the CDN trap!](https://dev.to/aralroca/dont-fall-into-the-cdn-trap-4keg)
 
 ### Talks
 
