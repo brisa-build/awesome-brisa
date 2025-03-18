@@ -52,6 +52,7 @@ If you want to contribute to this list (please do), send a pull request.
 
 - [DevTalles Podcast - 182: Brisa Framework | Early Preview](https://www.youtube.com/watch?v=XYI2JEmL9A0) 🇪🇸 - by Fernando Herrera
 - [Brisa Build: Creando un Framework de JavaScript desde Cero - Charla con su Fundador](https://www.youtube.com/watch?v=WOTKdwxM93Q)  🇪🇸 - by Domini Code
+- [JS Jabber](https://www.youtube.com/watch?v=vsZyogrdAhg) - By Charles Max Wood
 
 ### Streams
 
